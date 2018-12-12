@@ -13,4 +13,4 @@
 γ) model-maquette city/ΜΑΚΕΤΑ ΠΟΛΗΣ
 δ)jumper wires/ΚΑΛΩΔΙΑ ΣΥΝΔΕΣΗΣ
 ε)led /led διαφόρων χρωμάτων
-γ) 12V 4-Channel Relay Module Board with Optocouplers (High/Low)
+
