@@ -19,4 +19,4 @@
 γ) model-maquette city/ΜΑΚΕΤΑ ΠΟΛΗΣ
 δ)jumper wires/ΚΑΛΩΔΙΑ ΣΥΝΔΕΣΗΣ
 ε)led /led διαφόρων χρωμάτων
-
+στ) servo 
