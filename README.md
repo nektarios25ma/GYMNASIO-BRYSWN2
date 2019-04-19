@@ -20,4 +20,5 @@
 ε)led /led διαφόρων χρωμάτων
 στ) servo (SG90)
 θ)LCD 16x2
+ι)dfplayer mini mp3 and sd
 ΤΕΛΙΚΑ ΤΟ ΕΜΠΛΟΥΤΙΣΑΜΕ ΤΟ PROJECT ΚΑΙ ΜΕ...ΔΕς τα video
